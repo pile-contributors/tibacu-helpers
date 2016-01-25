@@ -1,0 +1,3 @@
+[submodule "tibacu"]
+	path = tibacu
+	url = git@github.com:pile-contributors/tibacu.git
